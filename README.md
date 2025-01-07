@@ -1,7 +1,7 @@
 ## Olá eu sou o Luis felipe!👋
 
 - 🔭 Estou a procura do primeiro emprego na area de TI. 
-- 🌱 Estudando Segurança da Informação.
+- 🌱 Estudando Sistemas de Informação.
 - 😄 Pronouns:Ele/ Dele.
 
 ##
